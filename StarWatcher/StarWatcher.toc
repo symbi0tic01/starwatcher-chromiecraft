@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: StarWatcher
+## Notes: Algalon only: follows the Collapsing Stars, tells when each dies and where to place it in the safe windows of the fight.
+## Version: 1.0.7
+## SavedVariables: StarWatcherDB
+
+Engine.lua
+Rolling.lua
+UI.lua

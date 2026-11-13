@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: StarWatcher Lite
+## Notes: Algalon only: the Collapsing Stars with their health, when each dies, and whether that is safe (Cosmic Smash, other stars, Big Bang).
+## Version: 1.0.7
+## SavedVariables: StarWatcherLiteDB
+
+Engine.lua
+UI.lua
